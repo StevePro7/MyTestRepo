@@ -1,7 +1,7 @@
 # Simpsons Trivia
 Simpsons Trivia game ported to the Sega MegaDrive / Genesis.
 
-![Simpsons Trivia](https://github.com/SteveProXNA/SimpsonsTriviaMD/blob/main/img/CoverImage.png)
+![Simpsons Trivia](https://github.com/StevePro7/MyTestRepo/blob/main/img/CoverImage.png)
 
 ###### RELEASE
 Monday, 15th November 2021
